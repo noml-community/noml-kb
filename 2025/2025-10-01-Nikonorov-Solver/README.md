@@ -6,7 +6,7 @@
 
 **Алексей Никоноров (GlowByte)**
 
-[YouTube](https://youtu.be/YsCM52Pp0dg) \| [Дзен](https://dzen.ru/video/watch/68dd57659f4a662957e607a2) \| [RuTube](https://rutube.ru/video/88c3ded1c9afd8611fa80362db3f4be2/) *(~50 минут)* \| [Слайды]()
+[YouTube](https://youtu.be/YsCM52Pp0dg) \| [Дзен](https://dzen.ru/video/watch/68dd57659f4a662957e607a2) \| [RuTube](https://rutube.ru/video/88c3ded1c9afd8611fa80362db3f4be2/) *(~50 минут)* \| [Слайды](2025-10-01-Nikonorov-Solver.pdf)
 
 ![thumbnail](thumbnail.jpeg)
 
