@@ -6,7 +6,7 @@
 
 **Влада Петренко (Университет «Сириус»)**
 
-[YouTube](https://youtu.be/Uz0nSCv84mc) \| [Дзен](https://dzen.ru/video/watch/69038ac42317255bf38b969c) \| [RuTube](https://rutube.ru/video/4ffe3c605a7cc5960844efa39d75f81f/) *(~50 минут)* \| [Слайды]()
+[YouTube](https://youtu.be/Uz0nSCv84mc) \| [Дзен](https://dzen.ru/video/watch/69038ac42317255bf38b969c) \| [RuTube](https://rutube.ru/video/4ffe3c605a7cc5960844efa39d75f81f/) *(~50 минут)* \| [Слайды](2025-10-29-Petrenko-QMC.pdf)
 
 ![thumbnail](thumbnail.jpeg)
 
