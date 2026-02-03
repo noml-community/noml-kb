@@ -2,6 +2,7 @@
 
 # Все мероприятия
 
+* [2026](#2026)
 * [2025](#2025)
 * [2024](#2024)*
 * [2023](#2023)*
@@ -10,9 +11,16 @@
 
 \* В процессе переезда, часть материалов пока остаётся в [Notion](https://generated-dawn-b51.notion.site/a1608688cec94cc68dfa9fb082b09d18)
 
+## 2026
+
+Coming soon...
+
 ## 2025
 | Дата  | Мероприятие | Ключевые слова | 
 | ------------- | ------------- | ------------- |
+| [2025-12-24](/2025/2025-12-24-Manyakin-PGM/README.md) | Илья Манякин (МСистемы), Вероятностные графовые модели и байесовские сети. [YouTube](https://youtu.be/EsgXb4vB1-I) \| [Дзен](https://dzen.ru/video/watch/694d03dd4159780f351599fa) \| [RuTube](https://rutube.ru/video/1cb45e845497eda832844d90661b0862/) *(~1 час)* | PGM |
+| [2025-12-10](/2025/2025-12-10-Gongapshev-FL/README.md) | Астемир Гонгапшев (Университет Сириус), Обзор методов безопасного федеративного обучения. [YouTube](https://youtu.be/AC30D5un3Vc) \| [Дзен](https://dzen.ru/video/watch/693fe323bc126a04cb1d2577) \| [RuTube](https://rutube.ru/video/e5e25edde9327c61b4e6b16767f67683/) *(~1 час)* | PPML |
+| [2025-11-26](/2025/2025-11-26-Chernenko-CO/README.md) | Виталий Черненко (Амальгама), Практическое применение комбинаторной оптимизации на примере задачи планирования молочного завода. [YouTube](https://youtu.be/i-nXz7IJyco) \| [Дзен](https://dzen.ru/video/watch/69280703ad1f78462382ecc0) \| [RuTube](https://rutube.ru/video/b0a88a732f7c634a6635e0b3823dabb4/) *(~1 час 25 минут)* | OR |
 | [2025-11-12](/2025/2025-11-12-Lozkins-RL-Opt/README.md) | Алексейс Ложкинс (LA Optimization), RL для оптимизаторов: новый взгляд на старые задачи. [YouTube](https://youtu.be/Afr3Cbu5Gt4) \| [Дзен](https://dzen.ru/video/watch/691584815b80947f85646b84) \| [RuTube](https://rutube.ru/video/1121a72b2ce3bd409f0b81e4b9a8bda0/) *(~1 час 10 минут)*  | [OR](/KB/OR.RU.md) |
 | [2025-10-29](/2025/2025-10-29-Petrenko-QMC/README.md) | Влада Петренко (Университет Сириус), Методы Монте-Карло и квази-Монте-Карло: от случайных чисел к финансовым моделям. [YouTube](https://youtu.be/Uz0nSCv84mc) \| [Дзен](https://dzen.ru/video/watch/69038ac42317255bf38b969c) \| [RuTube](https://rutube.ru/video/4ffe3c605a7cc5960844efa39d75f81f/) *(~50 минут)* |  |
 | [2025-10-15](/2025/2025-10-15-Tarasov-LP/README.md) | Алексей Тарасов (Разумное Расписание), Линейное программирование может больше чем кажется. [YouTube](https://youtu.be/oy6Yzo4o2L4) \| [Дзен](https://dzen.ru/video/watch/68f0a21c0e9b137a52ac2aec) \| [RuTube](https://rutube.ru/video/305face1f3c4cb4c4c8ddcfa40ce5703/) *(~1 час 10 минут)* | [OR](/KB/OR.RU.md) |
