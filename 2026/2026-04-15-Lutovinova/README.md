@@ -6,7 +6,7 @@
 
 **Надежда Александровна Лутовинова**, (ИПУ РАН)
 
-[YouTube](https://youtu.be/SoEks3xOWQk) \| [Дзен]() \| [RuTube](https://rutube.ru/video/41377f7ab3b315cead5ce03ced05a4d8/) \| [Файл](https://disk.yandex.ru/i/0OL908P3IyonLg) *(~55 минут)* \| [Презентация](2026-04-15-Lutovinova.pdf)
+[YouTube](https://youtu.be/SoEks3xOWQk) \| [Дзен](https://dzen.ru/video/watch/69e0914e65ea8173c6a339f6) \| [RuTube](https://rutube.ru/video/41377f7ab3b315cead5ce03ced05a4d8/) \| [Файл](https://disk.yandex.ru/i/0OL908P3IyonLg) *(~55 минут)* \| [Презентация](2026-04-15-Lutovinova.pdf)
 
 ![thumbnail](thumbnail.jpeg)
 
