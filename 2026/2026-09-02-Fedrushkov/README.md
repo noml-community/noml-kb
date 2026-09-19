@@ -6,7 +6,7 @@
 
 **Дмитрий Витальевич Федрушков**, аспирант, Университет ИТМО
 
-[YouTube](https://youtu.be/cfgilQOWWoc) \| [Дзен](https://dzen.ru/video/watch/6a9941dcb9766f4fc7f73d6d) \| [RuTube](https://rutube.ru/video/e90e6ce7dead69e7e0c74f58d7556ea0/) \| [Файл](https://disk.yandex.ru/i/TqVdvXL3JGeMgg) *(~1 час 50 минут)* \| [Презентация](2026-09-20-Fedrushkov.pdf)
+[YouTube](https://youtu.be/cfgilQOWWoc) \| [Дзен](https://dzen.ru/video/watch/6a9941dcb9766f4fc7f73d6d) \| [RuTube](https://rutube.ru/video/e90e6ce7dead69e7e0c74f58d7556ea0/) \| [Файл](https://disk.yandex.ru/i/TqVdvXL3JGeMgg) *(~1 час 50 минут)* \| [Презентация](2026-09-02-Fedrushkov.pdf)
 
 ![thumbnail](thumbnail.jpeg)
 
